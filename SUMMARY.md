@@ -4,4 +4,7 @@
 * [黑苹果](black-apple/README.md)
     * [1. Windows备份](black-apple/chapter1.md)
     * [2. 黑化](black-apple/chapter2.md)
+* [Sketch](sketch/README.md)
+    * [1. Part1](sketch/chapter1.md)
+    * [2. Part2](sketch/chapter2.md)
 
