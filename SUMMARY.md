@@ -19,4 +19,6 @@
 * [Sketch](sketch/README.md)
     * [1. Part1](sketch/chapter1.md)
     * [2. Part2](sketch/chapter2.md)
-
+* [Finance](Finance/README.md)
+    * [1. Part1](Finance/chapter1.md)
+    * [2. Part2](Finance/chapter2.md)
